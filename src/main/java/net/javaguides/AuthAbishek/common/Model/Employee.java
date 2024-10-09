@@ -1,4 +1,4 @@
-package net.javaguides.AuthAbishek.comman.Model;
+package net.javaguides.AuthAbishek.common.Model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
