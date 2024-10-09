@@ -1,8 +1,8 @@
-package net.javaguides.springboot_backend.Controller;
+package net.javaguides.AuthAbishek.comman.Controller;
 
-import net.javaguides.springboot_backend.Exception.ResourceNotFoundException;
-import net.javaguides.springboot_backend.Model.Employee;
-import net.javaguides.springboot_backend.Repository.EmployeeRepository;
+import net.javaguides.AuthAbishek.comman.Exception.ResourceNotFoundException;
+import net.javaguides.AuthAbishek.comman.Model.Employee;
+import net.javaguides.AuthAbishek.comman.Repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

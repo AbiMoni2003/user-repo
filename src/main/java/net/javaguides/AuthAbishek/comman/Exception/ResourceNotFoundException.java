@@ -1,4 +1,4 @@
-package net.javaguides.springboot_backend.Exception;
+package net.javaguides.AuthAbishek.comman.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

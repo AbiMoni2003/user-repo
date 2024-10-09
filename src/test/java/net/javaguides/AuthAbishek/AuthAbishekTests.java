@@ -1,10 +1,10 @@
-package net.javaguides.springboot_backend;
+package net.javaguides.AuthAbishek;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootBackendApplicationTests {
+class AuthAbishekTests {
 
 	@Test
 	void contextLoads() {
