@@ -19,7 +19,7 @@ public class LoginEmployee {
     private String userName;
 
     @Column(name = "phone_No",unique = true)
-    private String lastName; // Corrected spelling
+    private String PhoneNumber; // Corrected spelling
 
     @Column(name = "passeord")
     private String password;
